@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-I work as a decision scientst at Adobe during the day. When I am not working, I love to reearch on causal inference, build tools that make this field more accessible and above all, LEARN. 
+I work as a Lead data scientst at Adobe during the day. When I am not working, I love to research on deep learning, LLM and Robotics.
 
-🤔 I’m looking to contribute to any Open Source repository that furthers the field of causal inference (quasi-experimentation, causal ML, observational causality, etc. - you name it!). 
 
 Adios!
 <!--
