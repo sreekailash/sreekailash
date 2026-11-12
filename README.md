@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://github.com/sreekailash"><img alt="GitHub — sreekailash" src="https://img.shields.io/badge/GitHub-sreekailash-24292f?style=flat&amp;logo=github&amp;logoColor=white"></a>
   <a href="https://x.com/sr_kailash"><img alt="X — sr_kailash" src="https://img.shields.io/badge/X-%40sr__kailash-24292f?style=flat&amp;logo=x&amp;logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sreekailash&amp;label=Profile%20views&amp;color=526d82&amp;style=flat">
 </p>
 
 I'm a **Lead Data Scientist at Adobe**, with **9+ years of experience** across data science, causal inference, experimentation, statistical modeling, and machine learning. Previously, I worked at **PayPal** and **LatentView Analytics**.
